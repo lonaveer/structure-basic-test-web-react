@@ -1,1 +1,0 @@
-# structure-basic-test-web-react
